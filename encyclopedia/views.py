@@ -95,7 +95,9 @@ def edit_content(request, title):
                 "title": title,
                 "content": convert_markdown_to_html(content)
             })
+        
 '''Random Page Option1
+
 def random_page(request):
     all_entries = util.list_entries()
     title = random.choice(all_entries)

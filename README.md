@@ -1,3 +1,5 @@
+YouTube link https://youtu.be/aWfeIXaE88E
+
 Complete the implementation of your Wiki encyclopedia. You must fulfill the following requirements:
 
 1. Entry Page: Visiting /wiki/TITLE, where TITLE is the title of an encyclopedia entry, should render a page that displays the contents of that encyclopedia entry.
